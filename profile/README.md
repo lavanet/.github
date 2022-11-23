@@ -9,7 +9,8 @@ The market runs on an appchain built using the Cosmos Software Development Kit (
 🧠 We believe that blockchain data should be accurate. We believe access to that data should be scalable, private and uncensored. 
 We achieve this by removing trust assumptions and pairing accountable node runners to applications peer-to-peer. 
 
-🛠 We are building Lava as a public good. Not only as open-source, but as a public network, permissionless, which means anyone can join and consume/provide services on our Web3 API marketplace. 
+🛠 Lava is being built as a public good. Our Web3 API marketplace is not only open-source, but also public and permissionless, so anyone can join and consume or provide services. 
 
-For contributing, visit our pinned repositories... and come say hello on [our discord](https://discord.gg/5VcqgwMmkA) 🌋
+For contributing, visit our pinned repositories... 
+and come say hello on [our discord](https://discord.gg/5VcqgwMmkA) 🌋
 
