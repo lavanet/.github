@@ -1,23 +1,23 @@
-Lava open-source invites contributors to suggest PRs for Bug Fixes **ONLY**.
+* **Please check if the PR fulfills these requirements**
+- [ ] The commit message follows our guidelines
+- [ ] Tests for the changes have been added (for bug fixes / features)
+- [ ] Docs have been added / updated (for bug fixes / features)
 
-<!--- Provide a general summary of your changes in the Title above -->
 
-## Description
-<!--- Describe your changes in detail -->
+* **What kind of change does this PR introduce?** (Bug fix, feature, docs update, ...)
 
-## Related Issue
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+* **What is the current behavior?** (You can also link to an open issue here)
 
-## Screenshots (if appropriate):
+
+
+* **What is the new behavior (if this is a feature change)?**
+
+
+
+* **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
+
+
+
+* **Other information**:
