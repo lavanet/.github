@@ -6,7 +6,7 @@ Please note that all contributors are expected to follow the guidelines in our [
 ## Types of Contributions
 Here are some ways you can contribute to Lava:
 
-* **Submit bug reports**. If you find a bug in Lava, you can submit an issue to the project's issue tracker. See format here: ISSUE_TEMPLATE/ISSUE_TEMPLATE.md
+* **Submit bug reports**. If you find a bug in Lava, you can submit an issue to the project's issue tracker. See format here: [ISSUE_TEMPLATE](ISSUE_TEMPLATE/ISSUE_TEMPLATE.md)
 
 * **Contribute code** (please see our [coding guidelines](#coding-guidelines) below). If you're a developer and want to contribute code to Lava, you can fork the repository and submit a pull request with your changes.
 
