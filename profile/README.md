@@ -13,5 +13,4 @@ We achieve this by removing trust assumptions and pairing accountable node runne
 
 🛠 Lava is being built as a public good. Our Web3 API marketplace is not only open-source, but also public and permissionless, so anyone can join and consume or provide services. 
 
-> ⏰ We'll soon publish our repositories 👀
-> In the meantime - come say hello on [our discord](https://discord.gg/5VcqgwMmkA) 🌋
+Come say hello on [our discord](https://discord.gg/5VcqgwMmkA) 🌋
