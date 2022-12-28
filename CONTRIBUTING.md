@@ -26,10 +26,10 @@ Support is detailed in [SUPPORT.md](SUPPORT.md)
 Please follow these guidelines when contributing code to Lava:
 
 * Include tests for any new code
-* Follow the project's coding style (e.g. indentation, naming conventions)
 * When writing the subject line for a pull request, **use imperative mode** (e.g. "Add feature X" instead of "Adding feature X")
 * Make sure your code is well-documented and easy to understand
 * If you're making a lot of changes, it's a good idea to break your work into smaller, self-contained pull requests
+* TBD - Per project coding style
 
 
 The [PR Template](ISSUE_TEMPLATE/PULL_REQUEST_TEMPLATE.md) is covering some of these aspects
