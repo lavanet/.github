@@ -16,6 +16,8 @@ Issue tracker is **ONLY** used for reporting bugs. Support or new features shoul
 3.
 4.
 
+------
+
 👇 SECTIONS BELOW ARE NOT OBLIGATORY 👇
 
 ## Detailed Description
