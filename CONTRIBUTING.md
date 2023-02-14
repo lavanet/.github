@@ -26,7 +26,12 @@ Support is detailed in [SUPPORT.md](SUPPORT.md)
 Please follow these guidelines when contributing code to Lava:
 
 * Include tests for any new code
-* When writing the subject line for a pull request, **use imperative mode** (e.g. "Add feature X" instead of "Adding feature X")
+* One PR per issue/bug
+* PR Subject line:
+  * use imperative mode (e.g. "Add feature X" instead of "Adding feature X")
+  * Keep sentance short, concise and human readable
+  * Format sentance in proper english, start in capital word
+  * If fixing a bug, state the fix ("what channged") and not was the original bug
 * Make sure your code is well-documented and easy to understand
 * If you're making a lot of changes, it's a good idea to break your work into smaller, self-contained pull requests
 * TBD - Per project coding style
