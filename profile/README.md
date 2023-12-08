@@ -1,16 +1,23 @@
-## Lava open-source 🌋👋
+![Lava Banner](https://github.com/lavanet/.github/assets/82295340/9d4bb3cd-0dc5-4f6c-a21a-850bfb9e0637)
 
-![image](https://user-images.githubusercontent.com/2770565/203528359-dced4d06-f020-4b6a-bb5f-319124924689.png)
+🌋 **Lava Network** is a modular blockchain protocol which routes requests to _any web3 API_. Lava provides RPC built for the multichain world, with peer-to-peer (P2P) access to a decentralized network of node providers on 30+ chains and ecosystems. Each relay on Lava is intelligently routed to the best provider based upon latency, availability, geolocation, and sync. Providers are incentivized to service requests, while developers get access to limitless availability on sought-after APIs. 🔥 Get Started with [Lava Gateway](https://gateway.lavanet.xyz?utm_source=readme&utm_medium=github&utm_campaign=lava-phase-2)
 
 
 
-WELCOME 😻 This is where we build the Lava Network, a trustless market for blockchain Remote Procedure Calls (RPC).
-Lava facilitates relay requests to any blockchain. 
-The market runs on an appchain built using the Cosmos Software Development Kit (SDK) and Tendermint Byzantine Fault Tolerance (BFT) consensus.
 
-🧠 We believe that blockchain data should be accurate. We believe access to that data should be scalable, private and uncensored. 
-We achieve this by removing trust assumptions and pairing accountable node runners to applications peer-to-peer. 
+🛠 Open Source
+🛠 Peer-to-Peer (P2P)
+🛠 MultiChain
+🛠 Chain Agnostic
+🛠 Protocol Agnostic
+🛠 Modular
+🛠 Extensible
+🛠 Reliable
 
-🛠 Lava is being built as a public good. Our Web3 API marketplace is not only open-source, but also public and permissionless, so anyone can join and consume or provide services. 
-
-Come say hello on [our discord](https://discord.gg/5VcqgwMmkA) 🌋
+Quick Links:
+[💬 Discord](https://discord.gg/5VcqgwMmkA)
+[🐦 Twitter/X](https://x.com/lavanetxyz)
+[🪧 Website](https://lavanet.xyz)
+[🗣️ Discourse](https://community.lavanet.xyz)
+[🚧 Roadmap](https://lavanet.upvoty.com/)
+[📝 Docs](https://docs.lavanet.xyz)
