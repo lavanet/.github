@@ -1,4 +1,4 @@
-![Lava Banner](https://github.com/lavanet/.github/assets/82295340/9d4bb3cd-0dc5-4f6c-a21a-850bfb9e0637)
+![lava-github-banner](https://github.com/lavanet/.github/assets/82295340/a32f3878-32e0-4194-ad7a-33a22bf34163)
 
 🌋 **Lava Network** is a modular blockchain protocol which routes requests to _any web3 API_. Lava provides RPC built for the multichain world, with peer-to-peer (P2P) access to a decentralized network of node providers on 30+ chains and ecosystems. Each relay on Lava is intelligently routed to the best provider based upon latency, availability, geolocation, and sync. Providers are incentivized to service requests, while developers get access to limitless availability on sought-after APIs. 🔥 Get Started with [Lava Gateway](https://gateway.lavanet.xyz?utm_source=readme&utm_medium=github&utm_campaign=lava-phase-2)
 
