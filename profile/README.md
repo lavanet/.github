@@ -6,7 +6,7 @@ Blockchains and dapps pay the network of providers to handle traffic such as tra
 
 The protocol has secured $3.5m+ in revenue since August 2024, with chains and apps like NEAR, Starknet, Filecoin, and Axelar already paying LAVA stakers and providers $1m+.
 
-🔥 Get Started with [Lava Gateway](https://gateway.lavanet.xyz?utm_source=readme&utm_medium=github&utm_campaign=lava-phase-2)
+🔥 Get Started with the free [Lava-powered Public Endpoints](docs.lavanet.xyz/chains). 
 
 🛠 Open Source
 🛠 Peer-to-Peer (P2P)
