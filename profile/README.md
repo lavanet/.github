@@ -1,9 +1,10 @@
 ![lava-github-banner](https://github.com/lavanet/.github/assets/82295340/a32f3878-32e0-4194-ad7a-33a22bf34163)
 
-🌋 **Lava Network** is a modular blockchain protocol which routes requests to _any web3 API_. Lava provides RPC built for the multichain world, with peer-to-peer (P2P) access to a decentralized network of node providers on 30+ chains and ecosystems. Each relay on Lava is intelligently routed to the best provider based upon latency, availability, geolocation, and sync. Providers are incentivized to service requests, while developers get access to limitless availability on sought-after APIs. 🔥 Get Started with [Lava Gateway](https://gateway.lavanet.xyz?utm_source=readme&utm_medium=github&utm_campaign=lava-phase-2)
+🌋 **Lava Network is a protocol which directs dapp and AI agent traffic to the fastest and most reliable data providers on every chain. By aggregating, rewarding and coordinating data providers, Lava provides 24/7 access to using blockchain apps, with minimal downtime and network redundancy. Blockchains and dapps pay the network of providers to handle traffic such as transactions or data requests. Lava has a peer-to-peer, Quality of Service mechanisms which creates a provider reputation over time, impacting the amount of traffic they are paired to serve. 
 
+The protocol has secured $3.5m+ in revenue since August 2024, with chains and apps like NEAR, Starknet, Filecoin, and Axelar already paying LAVA stakers and providers $1m+.
 
-
+🔥 Get Started with [Lava Gateway](https://gateway.lavanet.xyz?utm_source=readme&utm_medium=github&utm_campaign=lava-phase-2)
 
 🛠 Open Source
 🛠 Peer-to-Peer (P2P)
@@ -17,7 +18,7 @@
 Quick Links:
 [💬 Discord](https://discord.gg/5VcqgwMmkA)
 [🐦 Twitter/X](https://x.com/lavanetxyz)
+[📩 Telegram](https://t.me/officiallavanetwork)
 [🪧 Website](https://lavanet.xyz)
-[🗣️ Discourse](https://community.lavanet.xyz)
-[🚧 Roadmap](https://lavanet.upvoty.com/)
+[🗣️ Forum](https://community.lavanet.xyz)
 [📝 Docs](https://docs.lavanet.xyz)
